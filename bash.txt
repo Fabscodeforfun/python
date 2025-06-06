@@ -1,0 +1,10 @@
+
+cd ADD DIRECTORY NAME HERE - Change directory
+ls - List all files in directory.
+cd .. - go to previous directory.
+mkdir ADD DIRECTORY NAME HERE - Make directory
+
+#### Instructions to push to git:
+git add .
+git commit -m "any message"
+git push 
